@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0368ebfe.chunk.css",
+    "main.js": "/static/js/main.dc5eefeb.chunk.js",
+    "main.js.map": "/static/js/main.dc5eefeb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.94f82867.js",
+    "runtime-main.js.map": "/static/js/runtime-main.94f82867.js.map",
+    "static/js/2.7f08737b.chunk.js": "/static/js/2.7f08737b.chunk.js",
+    "static/js/2.7f08737b.chunk.js.map": "/static/js/2.7f08737b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.682724426326eb8896c83ea0f0d7fe00.js": "/precache-manifest.682724426326eb8896c83ea0f0d7fe00.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0368ebfe.chunk.css.map": "/static/css/main.0368ebfe.chunk.css.map",
+    "static/js/2.7f08737b.chunk.js.LICENSE.txt": "/static/js/2.7f08737b.chunk.js.LICENSE.txt",
+    "static/media/WeatherApp.png": "/static/media/WeatherApp.697a7589.png",
+    "static/media/avatar.png": "/static/media/avatar.9de8b126.png",
+    "static/media/bootstrap.png": "/static/media/bootstrap.0cd09766.png",
+    "static/media/App.css": "/static/media/coffee-apple.2dd213aa.jpg",
+    "static/media/taskManager.png": "/static/media/taskManager.1bded2d6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94f82867.js",
+    "static/js/2.7f08737b.chunk.js",
+    "static/css/main.0368ebfe.chunk.css",
+    "static/js/main.dc5eefeb.chunk.js"
+  ]
+}
